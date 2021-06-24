@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SiddharthSingh5010 Shashikant Singh
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on Data Analysis
+- 📫 siddharthsingh5010@gmail.com
