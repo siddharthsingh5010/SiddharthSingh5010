@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Data Analysis
-- 📫 siddharthsingh5010@gmail.com
+- 📫 siddharthsingh5010@gmail.com , shashikant.singh501@gmail.com
