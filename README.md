@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashikant Singh aka Siddharth
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analytics | Data Science | Machine Learning | BI
 - 🌱 Python for Data Analysis and SQL PowerBI 
-- 💞️ I’m looking to collaborate on Data Analysis
+- 💞️ I’m looking to collaborate on Data Analytics
 - 📫 siddharthsingh5010@gmail.com , shashikant.singh501@gmail.com
