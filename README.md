@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shashikant Singh aka Siddharth
+- 👋 Hi, I’m Siddharth Singh
 - 👀 Data Scientist
 - Specifications in Data Engineering | Data Analytics | Data Science | Machine Learning
 - 💞️ I’m looking to collaborate on Data Science AI and ML
