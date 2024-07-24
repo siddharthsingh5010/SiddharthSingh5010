@@ -2,3 +2,4 @@
 - Specifications in Data Science, Machine Learning, Deep Learning, Time Series Forecasting and GenerativeAI
 - 💞️ I’m looking to collaborate on Data Science AI and ML
 - 📫 devsiddharthsingh5010@gmail.com , siddharthsingh5010@gmail.com
+- https://www.kaggle.com/siddharthsingh501
