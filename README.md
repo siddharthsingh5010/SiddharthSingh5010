@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Siddharth Singh
-- 👀 Data Scientist
-- Specifications in Data Engineering | Data Analytics | Data Science | Machine Learning
+- 👋 Hi, I’m Siddharth Singh working as Senior Data Scientist @ Bridgestone EMEA
+- Specifications in Data Science, Machine Learning, Deep Learning and GenerativeAI
 - 💞️ I’m looking to collaborate on Data Science AI and ML
-- 📫 siddharthsingh5010@gmail.com , shashikant.singh501@gmail.com
+- 📫 devsiddharthsingh5010@gmail.com , siddharthsingh5010@gmail.com
