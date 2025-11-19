@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Siddharth Singh working as Senior Data Scientist @ Bridgestone
 - Specifications in Data Science, Machine Learning, Deep Learning, Time Series Forecasting and GenerativeAI
 - 💞️ I’m looking to collaborate on Data Science AI and ML
+- https://www.nomadicsid.com
 - 📫 siddharthsingh5010@icloud.com
 - https://www.kaggle.com/siddharthsingh501
 - https://www.linkedin.com/in/siddharthsingh5010/
