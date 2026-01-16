@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Siddharth Singh working as Senior Data Scientist @ Bridgestone
+- 👋 Hi, I’m Siddharth Singh working as Associate Vice President - Data Science @ NatWest Group
 - Specifications in Data Science, Machine Learning, Deep Learning, Time Series Forecasting and GenerativeAI
 - 💞️ I’m looking to collaborate on Data Science AI and ML
 - https://www.nomadicsid.com
